@@ -1,0 +1,28 @@
+{
+  "name": "nmicro-jwt-auth",
+  "version": "1.0.0",
+  "description": "JWT Auth adapter for nmicro-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinujd/nmicro-jwt-auth.git"
+  },
+  "keywords": [
+    "nmicro",
+    "jwt-auth",
+    "nmicro-jwt-auth",
+    "jwt"
+  ],
+  "author": "Jinu Joseph Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinujd/nmicro-jwt-auth/issues"
+  },
+  "homepage": "https://github.com/jinujd/nmicro-jwt-auth#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
